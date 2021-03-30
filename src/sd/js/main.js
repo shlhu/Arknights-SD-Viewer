@@ -353,6 +353,7 @@ var viewer = {
     }
 };
 
+// Sets up the changelog button. Retrieves commits straight from the origin repository.
 function onChangeLog(){
     $(document.body).append($("<div></div>")
         .attr("id","darken")
@@ -409,7 +410,7 @@ function onChangeLog(){
     }
 
     var xobj = new XMLHttpRequest();
-    xobj.open("GET", "https://api.github.com/repos/alg-wiki/Arknights-SD-Viewer/commits?sha=gh-pages", true);
+    xobj.open("GET", "https://api.github.com/repos/Sparen/Arknights-SD-Viewer/commits?sha=sparen-dev", true);
     xobj.setRequestHeader("Authorization", "token c44bb04d2275b3c1849b49f02d8c1b473c5b6864");
     //access token scope: <<no scope>>
     //Grants read-only access to public information (includes public user profile info, public repository info, and gists)

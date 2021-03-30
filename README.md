@@ -21,3 +21,5 @@ TODO
 
 TODO
 
+## Notes
+- Commit Messages are used in the Changelog feature, which hooks into GitHub directly. Commit Messages should therefore be up to standard.
