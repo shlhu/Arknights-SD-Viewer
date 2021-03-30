@@ -6,10 +6,10 @@ import shutil
 from PIL import Image
 from shutil import copyfile
 
-path = "E:/Nox/Nox_share/OtherShare/AK/01-24-2020_CN/charpack"
-base = "C:/Users/Nukeclear/Documents/GitHub/candy/assets/sd/base/"
-front = "C:/Users/Nukeclear/Documents/GitHub/candy/assets/sd/front/"
-back = "C:/Users/Nukeclear/Documents/GitHub/candy/assets/sd/back/"
+path = "."
+base = "./base/"
+front = "./front/"
+back = "./back/"
 
 def clean(file):
 	file = re.sub("\s","",file)
@@ -140,6 +140,6 @@ for file in os.listdir(path):
 
 filestring += "};"
 print(filestring)
-text_file = open("src/sd/js/charData.js", "w")
+text_file = open("./charData.js", "w")
 text_file.write(filestring)
 text_file.close()
