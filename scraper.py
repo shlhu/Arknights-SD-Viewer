@@ -17,11 +17,11 @@ charname = sys.argv[1]
 options = ["front", "back", "base"]
 if (len(sys.argv) > 2 and sys.argv[2]) == "Y": # Switch to enemy mode
 	options = ["enemy"]
-if (len(sys.argv) > 3 and sys.argv[3] == "Y"): # No Dorm option
+elif (len(sys.argv) > 3 and sys.argv[3] == "Y"): # No Dorm option
 	if (len(sys.argv) > 4 and sys.argv[4] == "Y"): # No Back or Dorm option
 		options = ["front"]
 	options = ["front", "back"]
-if (len(sys.argv) > 4 and sys.argv[4] == "Y"): # No Back option
+elif (len(sys.argv) > 4 and sys.argv[4] == "Y"): # No Back option
 	if (len(sys.argv) > 3 and sys.argv[3] == "Y"): # No Back or Dorm option
 		options = ["front"]
 	options = ["front", "base"]
