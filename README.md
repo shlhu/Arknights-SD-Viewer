@@ -22,13 +22,13 @@ Caveats:
 ## Python Scripts
 The original repository contains three top level python scripts - alpha.py, enemy.py, and sort.py. These were not documented in the original repository. This section documents their usage.
 
-For processing character data, sort.py is used, while for enemy data both alpha.py (to apply masks) and enemy.py (to organize files) are used. 
+For processing character data, sort.py is used, while for enemy data, enemy.py is used. Regardless, image data needs to go through alpha.py (to apply masks).
 
 ### alpha.py
-This script is used on the raw Asset Studio ENEMY exports to process all sprite assets.
+This script applies alpha masks onto the output of sort.py, generating transparent images.
 
 ### enemy.py
-This script is used on the raw Asset Studio ENEMY exports to neatly organize them, as well as create the charData file.
+This script is used on the raw Asset Studio ENEMY exports to neatly organize them, as well as create the enemyData file.
 
 ### sort.py
 This script is used on the raw Asset Studio CHARACTER exports to process all sprite assets and neatly organize them, as well as create the charData file. The original script assumes the following:
