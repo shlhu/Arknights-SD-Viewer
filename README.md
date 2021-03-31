@@ -19,6 +19,16 @@ Caveats:
 - CN APK still does not include skins
 - sort.py should only ever be run on the full dataset once, since pretty much all the data in the JSON (e.g. class, rarity) needs to be repopulated from scratch. For adding new characters once the existing portion is established, you can still run sort.py, but it is best to add newly added characters to the top of charData.js or enemyData.js manually.
 
+Portraits:
+
+- Portraits are located at `assets/AB/Android/spritepack` at ui_char_avatar_h1_0.ab, ui_char_avatar_h1_elite_0.ab, and ui_char_avatar_h1_skins_0.ab. These require masks to be applied manually. Note that portraits are 180x180, but the masks and atlases ARE NOT 180x180 for whatever reason. This means that you can either pair the atlas and mask and then crop out the portrait you want by analyzing which edge pixels have been repeated while cross referencing the raw portrait data, or you can crop out the mask after cross referencing and then apply it. The former is less mentally taxing and is therefore recommended.
+
+## SOP - Adding a new Character
+- Process the charpack chibi sprite and add the front, back, and base png, skel, and atlas files
+- Given the name of the character, add them with their information manually into charData.js
+- Process the portraits and add their E1 and E2 portraits (or skin, if applicable)
+- Perform the same for their summons, if any
+
 ## Python Scripts
 The original repository contains three top level python scripts - alpha.py, enemy.py, and sort.py. These were not documented in the original repository. This section documents their usage.
 
@@ -48,6 +58,9 @@ It is run as follows:
 `python3 scraper.py targetchar enemyflag<Y/N> nodormflag<Y/N> nobackflag<Y/N> `
 
 `targetchar` is the skin name for the character. `enemyflag` should be set to 'Y' iff the script is being run for an enemy rather than an operator. `nodormflag` should be set to 'Y' if there is no dorm animation (e.g. Weedy's cannon), and `nobackflag` should be set to 'Y' if there is no dorm or back flag (e.g. W's mines). All flags are optional, but the names are required in order for the script to work at all.
+
+### texmapalpha.py
+This script applies a mask onto an image. It is primarily used for portrait extraction
 
 ## Notes
 - Commit Messages are used in the Changelog feature, which hooks into GitHub directly. Commit Messages should therefore be up to standard.
