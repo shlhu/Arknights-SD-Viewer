@@ -603,6 +603,13 @@ var charData = {
 		"rarity" : "★★★★★",
 		"skin" : ["char_336_folivo",]
 	},
+	"cuttle" : {
+		"name" : "Andreana",
+		"type" : "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_218_cuttle",]
+	},
 	"blackd" : {
 		"name" : "Courier",
 		"type" : "Vanguard",
