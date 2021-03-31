@@ -876,12 +876,19 @@ var charData = {
 		"rarity" : "★★★★",
 		"skin" : ["char_328_cammou",]
 	},
-	"cammou" : {
+	"strong" : {
 		"name" : "Jaye",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★",
 		"skin" : ["char_272_strong",]
+	},
+	"acdrop" : {
+		"name" : "Aciddrop",
+		"type" : "Sniper",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_366_acdrop",]
 	},
 	"fang" : {
 		"name" : "Fang",
