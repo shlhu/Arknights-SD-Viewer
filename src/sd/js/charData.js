@@ -890,6 +890,13 @@ var charData = {
 		"rarity" : "★★★★",
 		"skin" : ["char_366_acdrop",]
 	},
+	"spikes" : {
+		"name" : "Arene",
+		"type" : "Guard",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_271_spikes",]
+	},
 	"fang" : {
 		"name" : "Fang",
 		"type" : "Vanguard",
