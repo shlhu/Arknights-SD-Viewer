@@ -23,6 +23,12 @@ Portraits:
 
 - Portraits are located at `assets/AB/Android/spritepack` at ui_char_avatar_h1_0.ab, ui_char_avatar_h1_elite_0.ab, and ui_char_avatar_h1_skins_0.ab. These require masks to be applied manually. Note that portraits are 180x180, but the masks and atlases ARE NOT 180x180 for whatever reason. This means that you can either pair the atlas and mask and then crop out the portrait you want by analyzing which edge pixels have been repeated while cross referencing the raw portrait data, or you can crop out the mask after cross referencing and then apply it. The former is less mentally taxing and is therefore recommended.
 
+Removing .prefab extension on skel and atlas files:
+
+`find . -type f -name "*.atlas.prefab" -exec rename 's/\.atlas.prefab$/.atlas/' '{}' \;`
+
+`find . -type f -name "*.skel.prefab" -exec rename 's/\.skel.prefab$/.skel/' '{}' \;`
+
 ## SOP - Adding a new Character
 - Process the charpack chibi sprite and add the front, back, and base png, skel, and atlas files
 - Given the name of the character, add them with their information manually into charData.js
