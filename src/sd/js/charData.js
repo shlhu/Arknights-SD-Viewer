@@ -876,6 +876,13 @@ var charData = {
 		"rarity" : "★★★★",
 		"skin" : ["char_328_cammou",]
 	},
+	"cammou" : {
+		"name" : "Jaye",
+		"type" : "Specialist",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_272_strong",]
+	},
 	"fang" : {
 		"name" : "Fang",
 		"type" : "Vanguard",
