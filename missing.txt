@@ -10,7 +10,6 @@ Operators:
 - Pinecone
 - Beanstalk
 
-- Flint
 - Pith
 - Sharp
 - Touch
@@ -29,7 +28,6 @@ Operators:
 - Blitz
 - Tachanka
 
-- Eunectes
 - Surtr
 - Blemishine
 - Rosmontis

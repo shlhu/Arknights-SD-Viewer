@@ -189,6 +189,13 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_293_thorns",]
 	},
+	"zumama" : {
+		"name" : "Eunectes",
+		"type" : "Defender",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_416_zumama",]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
@@ -623,6 +630,13 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★",
 		"skin" : ["char_411_tomimi",]
+	},
+	"flint" : {
+		"name" : "Flint",
+		"type" : "Guard",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_415_flint",]
 	},
 	"blackd" : {
 		"name" : "Courier",
