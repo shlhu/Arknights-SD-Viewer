@@ -17,11 +17,11 @@ Latest Arknights CN APK: https://ak.hypergryph.com/downloads/android_lastest
 Caveats:
 
 - CN APK still does not include skins
-- sort.py should only ever be run on the full dataset once, since pretty much all the data in the JSON (e.g. class, rarity) needs to be repopulated from scratch. For adding new characters once the existing portion is established, you can still run sort.py, but it is best to add newly added characters to the top of charData.js or enemyData.js manually.
+- sort.py should only ever be run on the full dataset once, since pretty much all the data in the JSON (e.g. class, rarity) needs to be repopulated from scratch. For adding new characters once the existing portion is established, you can still run sort.py in order to organize the files, but charData.js and enemyData.js should be edited manually and should not use the automatically generated output from sort.py.
 
 Portraits:
 
-- Portraits are located at `assets/AB/Android/spritepack` at ui_char_avatar_h1_0.ab, ui_char_avatar_h1_elite_0.ab, and ui_char_avatar_h1_skins_0.ab. These require masks to be applied manually. Note that portraits are 180x180, but the masks and atlases ARE NOT 180x180 for whatever reason. This means that you can either pair the atlas and mask and then crop out the portrait you want by analyzing which edge pixels have been repeated while cross referencing the raw portrait data, or you can crop out the mask after cross referencing and then apply it. The former is less mentally taxing and is therefore recommended.
+- Portraits are located at `assets/AB/Android/spritepack` at ui_char_avatar_h1_0.ab, ui_char_avatar_h1_elite_0.ab, and ui_char_avatar_h1_skins_0.ab. These require masks to be applied manually (e.g. texmapalpha.py). Note that portraits are 180x180, but the masks and atlases ARE NOT 180x180 for whatever reason. The recommended approach is to find the extra pixels and manually crop the portraits.
 
 Removing .prefab extension on skel and atlas files:
 
@@ -34,6 +34,7 @@ Removing .prefab extension on skel and atlas files:
 - Given the name of the character, add them with their information manually into charData.js
 - Process the portraits and add their E1 and E2 portraits (or skin, if applicable)
 - Perform the same for their summons, if any
+- Verify that all animations are functional!
 
 ## Python Scripts
 The original repository contains three top level python scripts - alpha.py, enemy.py, and sort.py. These were not documented in the original repository. This section documents their usage.

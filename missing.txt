@@ -25,7 +25,6 @@ Operators:
 - Blitz
 - Tachanka
 
-- Surtr
 - Blemishine
 - Rosmontis
 - Mudrock

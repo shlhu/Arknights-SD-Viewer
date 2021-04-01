@@ -196,6 +196,13 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_416_zumama",]
 	},
+	"surtr" : {
+		"name" : "Surtr",
+		"type" : "Guard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_350_surtr",]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
