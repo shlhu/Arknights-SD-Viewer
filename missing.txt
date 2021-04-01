@@ -12,7 +12,6 @@ Operators:
 - Sharp
 - Touch
 - Stormeye
-- Aosta
 - Whislash
 - Whisperain
 - Kafka

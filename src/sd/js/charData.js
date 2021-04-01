@@ -659,6 +659,13 @@ var charData = {
 		"rarity" : "★★★★★",
 		"skin" : ["char_365_aprl",]
 	},
+	"aosta" : {
+		"name" : "Aosta",
+		"type" : "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_346_aosta",]
+	},
 	"blackd" : {
 		"name" : "Courier",
 		"type" : "Vanguard",
