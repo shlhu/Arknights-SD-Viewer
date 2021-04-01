@@ -14,7 +14,6 @@ Operators:
 - Sharp
 - Touch
 - Stormeye
-- Mint
 - April
 - Aosta
 - Whislash

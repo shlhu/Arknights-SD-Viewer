@@ -638,6 +638,13 @@ var charData = {
 		"rarity" : "★★★★★",
 		"skin" : ["char_415_flint",]
 	},
+	"mint" : {
+		"name" : "Mint",
+		"type" : "Caster",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_388_mint",]
+	},
 	"blackd" : {
 		"name" : "Courier",
 		"type" : "Vanguard",
