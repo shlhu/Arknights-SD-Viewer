@@ -30,7 +30,6 @@ Operators:
 - Blitz
 - Tachanka
 
-- Thorns
 - Eunectes
 - Surtr
 - Blemishine

@@ -182,6 +182,13 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_358_lisa",]
 	},
+	"thorns" : {
+		"name" : "Thorns",
+		"type" : "Guard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_293_thorns",]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
