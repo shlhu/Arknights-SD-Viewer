@@ -960,6 +960,13 @@ var charData = {
 		"rarity" : "★★★★",
 		"skin" : ["char_381_bubble",]
 	},
+	"jaksel" : {
+		"name" : "Jackie",
+		"type" : "Guard",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_347_jaksel",]
+	},
 	"fang" : {
 		"name" : "Fang",
 		"type" : "Vanguard",
