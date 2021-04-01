@@ -10,7 +10,6 @@ Operators:
 - Pinecone
 - Beanstalk
 
-- Tomimi
 - Flint
 - Pith
 - Sharp

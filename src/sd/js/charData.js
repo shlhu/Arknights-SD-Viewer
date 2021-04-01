@@ -617,6 +617,13 @@ var charData = {
 		"rarity" : "★★★★★",
 		"skin" : ["char_218_cuttle",]
 	},
+	"tomimi" : {
+		"name" : "Tomimi",
+		"type" : "Caster",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_411_tomimi",]
+	},
 	"blackd" : {
 		"name" : "Courier",
 		"type" : "Vanguard",
