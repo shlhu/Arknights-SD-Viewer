@@ -645,6 +645,13 @@ var charData = {
 		"rarity" : "★★★★★",
 		"skin" : ["char_388_mint",]
 	},
+	"aprl" : {
+		"name" : "April",
+		"type" : "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_365_aprl",]
+	},
 	"blackd" : {
 		"name" : "Courier",
 		"type" : "Vanguard",

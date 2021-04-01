@@ -13,7 +13,6 @@ Operators:
 - Sharp
 - Touch
 - Stormeye
-- April
 - Aosta
 - Whislash
 - Whisperain
