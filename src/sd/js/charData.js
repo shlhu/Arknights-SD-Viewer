@@ -39,7 +39,7 @@ var charData = {
 		"type" : "Caster",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_180_amgoat",]
+		"skin" : ["char_180_amgoat", "char_180_amgoat_summer"]
 	},
 	"angel" : {
 		"name" : "Exusiai",
