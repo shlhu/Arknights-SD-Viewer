@@ -250,7 +250,7 @@ var charData = {
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★★",
-		"skin" : ["char_002_amiya","char_002_amiya_winter","char_002_amiya_epoque",]
+		"skin" : ["char_002_amiya","char_002_amiya_winter","char_002_amiya_epoque", "char_002_amiya_epoque_4"]
 	},
 	"nightm" : {
 		"name" : "Nightmare",

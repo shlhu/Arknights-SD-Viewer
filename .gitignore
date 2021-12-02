@@ -6,3 +6,6 @@ output.txt
 ltd.py
 akg/preprocess
 sd.bat
+*.apk
+*.zip
+apk/
