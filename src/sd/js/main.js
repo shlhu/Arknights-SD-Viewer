@@ -410,8 +410,8 @@ function onChangeLog(){
     }
 
     var xobj = new XMLHttpRequest();
-    xobj.open("GET", "https://api.github.com/repos/Sparen/Arknights-SD-Viewer/commits?sha=sparen-dev", true);
-    xobj.setRequestHeader("Authorization", "token c44bb04d2275b3c1849b49f02d8c1b473c5b6864");
+    xobj.open("GET", "https://api.github.com/repos/flashmercurymcfly/Arknights-SD-Viewer/commits?sha=sparen-dev", true);
+    //xobj.setRequestHeader("Authorization", "token c44bb04d2275b3c1849b49f02d8c1b473c5b6864");
     //access token scope: <<no scope>>
     //Grants read-only access to public information (includes public user profile info, public repository info, and gists)
     xobj.onreadystatechange = function () {
