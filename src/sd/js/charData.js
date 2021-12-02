@@ -137,7 +137,7 @@ var charData = {
 		"name" : "Ceobe",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
-		"rarity" : "★★★★★",
+		"rarity" : "★★★★★★",
 		"skin" : ["char_2013_cerber",]
 	},
 	"bpipe" : {
