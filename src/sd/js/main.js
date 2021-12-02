@@ -7,7 +7,7 @@ $(document).ready(function(){
 var viewer = {
     init: function() {
         viewer.searchResults = charData;
-        viewer.currentBG = "https://media.nuke.moe/arknights/bg/zgreen.png";
+        viewer.currentBG = "assets/bg/zgreen.png";
         viewer.mouse = false;
         viewer.lastMouseX = 0;
         viewer.lastMouseY = 0;
