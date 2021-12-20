@@ -259,6 +259,91 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_456_ash", "char_456_ash_rainbow6"]
 	},
+	"passenger" : {
+		"name": "Passenger",
+		"type": "Caster",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_472_pasngr"]
+	},
+	"skadi2" : {
+		"name": "Skadi the Corrupting Heart",
+		"type": "Supporter",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"back" : "false",
+		"skin" : ["char_1012_skadi2"]
+	},
+	"gladiia" : {
+		"name": "Gladiia",
+		"type": "Specialist",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_474_glady"]
+	},
+	"kelsey" : {
+		"name": "Kal'tsit",
+		"type": "Medic",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_003_kalts"]
+	},
+	"carnelian" : {
+		"name": "Carnelian",
+		"type": "Caster",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_426_billro"]
+	},
+	"pallas" : {
+		"name": "Pallas",
+		"type": "Guard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_485_pallas", "char_485_pallas_epoque"]
+	},
+	"chen2" : {
+		"name": "Ch'en the Holungday",
+		"type": "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_1013_chen2"]
+	},
+	"mizuki" : {
+		"name": "Mizuki",
+		"type": "Specialist",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_437_mizuki"]
+	},
+	"saileach" : {
+		"name": "Saileach",
+		"type": "Vanguard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_479_sleach"]
+	},
+	"fartooth" : {
+		"name": "Fartooth",
+		"type": "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_430_fartth"]
+	},
+	"nearl2" : {
+		"name": "Nearl the Radiant Knight",
+		"type": "Guard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_1014_nearl2"]
+	},
+	"flametail" : {
+		"name": "Flametail",
+		"type": "Vanguard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_420_flamtl"]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
