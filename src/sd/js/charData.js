@@ -1317,105 +1317,105 @@ var charData = {
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_123_fang","char_123_fang_winter",]
+		"skin" : ["char_123_fang","char_123_fang_winter"]
 	},
 	"wyvern" : {
 		"name" : "Vanilla",
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_240_wyvern",]
+		"skin" : ["char_240_wyvern"]
 	},
 	"falco" : {
 		"name" : "Plume",
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_192_falco",]
+		"skin" : ["char_192_falco"]
 	},
 	"hibisc" : {
 		"name" : "Hibiscus",
 		"type" : "Medic",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_120_hibisc","char_120_hibisc_nian",]
+		"skin" : ["char_120_hibisc","char_120_hibisc_nian"]
 	},
 	"ansel" : {
 		"name" : "Ansel",
 		"type" : "Medic",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_212_ansel","char_212_ansel_summer",]
+		"skin" : ["char_212_ansel","char_212_ansel_summer"]
 	},
 	"lava" : {
 		"name" : "Lava",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★",
-		"skin" : ["char_121_lava",]
+		"skin" : ["char_121_lava"]
 	},
 	"stward" : {
 		"name" : "Steward",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★",
-		"skin" : ["char_210_stward",]
+		"skin" : ["char_210_stward"]
 	},
 	"kroos" : {
 		"name" : "Kroos",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_124_kroos","char_124_kroos_witch",]
+		"skin" : ["char_124_kroos","char_124_kroos_witch"]
 	},
 	"adnach" : {
 		"name" : "Adnachiel",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_211_adnach",]
+		"skin" : ["char_211_adnach"]
 	},
 	"orchid" : {
 		"name" : "Orchid",
 		"type" : "Supporter",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_278_orchid",]
+		"skin" : ["char_278_orchid"]
 	},
 	"melan" : {
 		"name" : "Melantha",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_208_melan","char_208_melan_epoque",]
+		"skin" : ["char_208_melan","char_208_melan_epoque"]
 	},
 	"beagle" : {
 		"name" : "Beagle",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_122_beagle","char_122_beagle_boc",]
+		"skin" : ["char_122_beagle","char_122_beagle_boc"]
 	},
 	"ardign" : {
 		"name" : "Cardigan",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_209_ardign","char_209_ardign_snow",]
+		"skin" : ["char_209_ardign","char_209_ardign_snow"]
 	},
 	"catap" : {
 		"name" : "Catapult",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_282_catap",]
+		"skin" : ["char_282_catap"]
 	},
 	"midn" : {
 		"name" : "Midnight",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_283_midn","char_283_midn_boc",]
+		"skin" : ["char_283_midn","char_283_midn_boc"]
 	},
 	"popka" : {
 		"name" : "Popukar",
@@ -1429,42 +1429,42 @@ var charData = {
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★",
-		"skin" : ["char_284_spot","char_284_spot_otaku",]
+		"skin" : ["char_284_spot","char_284_spot_otaku", "char_284_spot_boc"]
 	},
 	"nblade" : {
 		"name" : "Yato",
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★",
-		"skin" : ["char_502_nblade",]
+		"skin" : ["char_502_nblade"]
 	},
 	"durin" : {
 		"name" : "Durin",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★",
-		"skin" : ["char_501_durin",]
+		"skin" : ["char_501_durin"]
 	},
 	"12fce" : {
 		"name" : "12F",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★",
-		"skin" : ["char_009_12fce",]
+		"skin" : ["char_009_12fce"]
 	},
 	"rang" : {
 		"name" : "Rangers",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★",
-		"skin" : ["char_503_rang",]
+		"skin" : ["char_503_rang"]
 	},
 	"noirc" : {
 		"name" : "Noir Corne",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★",
-		"skin" : ["char_500_noirc",]
+		"skin" : ["char_500_noirc"]
 	},
 	"medic2" : {
 		"name" : "Lancet-2",
@@ -1478,14 +1478,21 @@ var charData = {
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★",
-		"skin" : ["char_286_cast3","char_286_cast3_summer",]
+		"skin" : ["char_286_cast3","char_286_cast3_summer"]
 	},
 	"therex" : {
 		"name" : "Thermal-EX",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★",
-		"skin" : ["char_376_therex",]
+		"skin" : ["char_376_therex"]
+	},
+	"jnight" : {
+		"name" : "Justice Knight",
+		"type" : "Sniper",
+		"group" : "",
+		"rarity" : "★",
+		"skin" : ["char_4000_jnight"]
 	},
 	"silent_healrb" : {
 		"name" : "Silence - Drone",
