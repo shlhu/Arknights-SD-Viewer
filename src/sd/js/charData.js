@@ -210,6 +210,55 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_423_blemsh", "char_423_blemsh_witch"]
 	},
+	"rosmontis" : {
+		"name": "Rosmontis",
+		"type": "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_391_rosmon"]
+	},
+	"mudrock" : {
+		"name": "Mudrock",
+		"type": "Defemder",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_311_mudrok", "char_311_mudrok_summer"]
+	},
+	"mountain" : {
+		"name": "Mountain",
+		"type": "Guard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_264_f12yin", "char_264_f12yin_boc"]
+	},
+	"archetto" : {
+		"name": "Archetto",
+		"type": "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_332_archet", "char_332_archet_shining"]
+	},
+	"dusk" : {
+		"name": "Dusk",
+		"type": "Caster",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_2015_dusk"]
+	},
+	"saga" : {
+		"name": "Saga",
+		"type": "Vanguard",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_362_saga"]
+	},
+	"ash" : {
+		"name": "Ash",
+		"type": "Sniper",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_456_ash", "char_456_ash_rainbow6"]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
