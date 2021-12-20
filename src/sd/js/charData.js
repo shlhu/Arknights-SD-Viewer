@@ -203,6 +203,13 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_350_surtr",]
 	},
+	"blemishine" : {
+		"name": "Blemishine",
+		"type": "Defender",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_423_blemsh", "char_423_blemsh_witch"]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
