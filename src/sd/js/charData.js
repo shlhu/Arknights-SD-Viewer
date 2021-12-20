@@ -54,14 +54,14 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★★",
 		"back" : "false",
-		"skin" : ["char_291_aglina","char_291_aglina_boc",]
+		"skin" : ["char_291_aglina","char_291_aglina_boc", "char_291_aglina_summer"]
 	},
 	"svrash" : {
 		"name" : "Silverash",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_172_svrash","char_172_svrash_snow",]
+		"skin" : ["char_172_svrash","char_172_svrash_snow", "char_172_svrash_summer"]
 	},
 	"hsguma" : {
 		"name" : "Hoshiguma",
@@ -75,28 +75,28 @@ var charData = {
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_202_demkni","char_202_demkni_boc",]
+		"skin" : ["char_202_demkni","char_202_demkni_boc", "char_202_demkni_test"]
 	},
 	"skadi" : {
 		"name" : "Skadi",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_263_skadi",]
+		"skin" : ["char_263_skadi", "char_263_skadi_summer"]
 	},
 	"shwaz" : {
 		"name" : "Schwarz",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_340_shwaz","char_340_shwaz_snow",]
+		"skin" : ["char_340_shwaz","char_340_shwaz_snow", "char_340_shwaz_striker"]
 	},
 	"helage" : {
 		"name" : "Hellagur",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_188_helage",]
+		"skin" : ["char_188_helage", "char_188_helage_boc"]
 	},
 	"mgllan" : {
 		"name" : "Magallan",
@@ -117,91 +117,91 @@ var charData = {
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_017_huang",]
+		"skin" : ["char_017_huang", "char_017_huang_as"]
 	},
 	"haak" : {
 		"name" : "Aak",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_225_haak",]
+		"skin" : ["char_225_haak", "char_225_haak_nian"]
 	},
 	"nian" : {
 		"name" : "Nian",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_2014_nian",]
+		"skin" : ["char_2014_nian", "char_2014_nian_nian"]
 	},
 	"ceobe" : {
 		"name" : "Ceobe",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_2013_cerber",]
+		"skin" : ["char_2013_cerber", "char_2013_cerber_summer"]
 	},
 	"bpipe" : {
 		"name" : "Bagpipe",
 		"type" : "Vanguard",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_222_bpipe",]
+		"skin" : ["char_222_bpipe", "char_222_bpipe_race"]
 	},
 	"phatom" : {
 		"name" : "Phantom",
 		"type" : "Specialist",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_250_phatom",]
+		"skin" : ["char_250_phatom", "char_250_phatom_ghost"]
 	},
 	"cqbw" : {
 		"name" : "W",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_113_cqbw",]
+		"skin" : ["char_113_cqbw", "char_113_cqbw_epoque"]
 	},
 	"weedy" : {
 		"name" : "Weedy",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_400_weedy",]
+		"skin" : ["char_400_weedy", "char_400_weedy_snow"]
 	},
 	"poca" : {
 		"name" : "Poca",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_197_poca",]
+		"skin" : ["char_197_poca", "char_197_poca_epoque"]
 	},
 	"lisa" : {
 		"name" : "Suzuran",
 		"type" : "Supporter",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_358_lisa",]
+		"skin" : ["char_358_lisa", "char_358_lisa_wild"]
 	},
 	"thorns" : {
 		"name" : "Thorns",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_293_thorns",]
+		"skin" : ["char_293_thorns", "char_293_thorns_it"]
 	},
 	"zumama" : {
 		"name" : "Eunectes",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_416_zumama",]
+		"skin" : ["char_416_zumama", "char_416_zumama_boc"]
 	},
 	"surtr" : {
 		"name" : "Surtr",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_350_surtr",]
+		"skin" : ["char_350_surtr", "char_350_surtr_it"]
 	},
 	"blemishine" : {
 		"name": "Blemishine",
