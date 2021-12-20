@@ -973,308 +973,344 @@ var charData = {
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_198_blackd","char_198_blackd_winter",]
+		"skin" : ["char_198_blackd","char_198_blackd_winter", "char_198_blackd_as"]
 	},
 	"scave" : {
 		"name" : "Scavenger",
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_149_scave",]
+		"skin" : ["char_149_scave"]
 	},
 	"vigna" : {
 		"name" : "Vigna",
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_290_vigna","char_290_vigna_summer",]
+		"skin" : ["char_290_vigna","char_290_vigna_summer", "char_290_vigna_as"]
 	},
 	"myrrh" : {
 		"name" : "Myrrh",
 		"type" : "Medic",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_117_myrrh","char_117_myrrh_wild",]
+		"skin" : ["char_117_myrrh","char_117_myrrh_wild"]
 	},
 	"ccheal" : {
 		"name" : "Gavial",
 		"type" : "Medic",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_187_ccheal","char_187_ccheal_epoque",]
+		"skin" : ["char_187_ccheal","char_187_ccheal_epoque"]
 	},
 	"flower" : {
 		"name" : "Perfumer",
 		"type" : "Medic",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_181_flower","char_181_flower_daily",]
+		"skin" : ["char_181_flower","char_181_flower_daily", "char_181_flower_epoque"]
 	},
 	"nights" : {
 		"name" : "Haze",
 		"type" : "Caster",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_141_nights",]
+		"skin" : ["char_141_nights"]
 	},
 	"fmout" : {
 		"name" : "Gitano",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★",
-		"skin" : ["char_109_fmout","char_109_fmout_epoque",]
+		"skin" : ["char_109_fmout","char_109_fmout_epoque"]
 	},
 	"gravel" : {
 		"name" : "Gravel",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_237_gravel",]
+		"skin" : ["char_237_gravel", "char_237_gravel_winter"]
 	},
 	"rope" : {
 		"name" : "Rope",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_236_rope","char_236_rope_witch","char_236_rope_summer",]
+		"skin" : ["char_236_rope","char_236_rope_witch","char_236_rope_summer"]
 	},
 	"sqrrel" : {
 		"name" : "Shaw",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_277_sqrrel",]
+		"skin" : ["char_277_sqrrel", "char_277_sqrrel_ghost"]
 	},
 	"yuki" : {
 		"name" : "Shirayuki",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_118_yuki",]
+		"skin" : ["char_118_yuki", "char_118_yuki_boc"]
 	},
 	"shotst" : {
 		"name" : "Meteor",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_126_shotst",]
+		"skin" : ["char_126_shotst", "char_126_shotst_epoque"]
 	},
 	"jesica" : {
 		"name" : "Jessica",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_235_jesica","char_235_jesica_nian","char_235_jesica_sweep","char_235_jesica_wild",]
+		"skin" : ["char_235_jesica","char_235_jesica_nian","char_235_jesica_sweep","char_235_jesica_wild"]
 	},
 	"deepcl" : {
 		"name" : "Deepcolor",
 		"type" : "Supporter",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_110_deepcl",]
+		"skin" : ["char_110_deepcl"]
 	},
 	"skgoat" : {
 		"name" : "Earthspirit",
 		"type" : "Supporter",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_183_skgoat",]
+		"skin" : ["char_183_skgoat"]
 	},
 	"doberm" : {
 		"name" : "Dobermann",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_130_doberm",]
+		"skin" : ["char_130_doberm", "char_130_doberm_epoque"]
 	},
 	"estell" : {
 		"name" : "Estelle",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_127_estell",]
+		"skin" : ["char_127_estell"]
 	},
 	"brownb" : {
 		"name" : "Beehunter",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_137_brownb","char_137_brownb_kitchen",]
+		"skin" : ["char_137_brownb","char_137_brownb_kitchen"]
 	},
 	"frncat" : {
 		"name" : "Mousse",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_185_frncat",]
+		"skin" : ["char_185_frncat"]
 	},
 	"frostl" : {
 		"name" : "Frostleaf",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_193_frostl",]
+		"skin" : ["char_193_frostl"]
 	},
 	"gyuki" : {
 		"name" : "Matoimaru",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_289_gyuki",]
+		"skin" : ["char_289_gyuki"]
 	},
 	"snakek" : {
 		"name" : "Cuora",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_150_snakek","char_150_snakek_wild",]
+		"skin" : ["char_150_snakek","char_150_snakek_wild"]
 	},
 	"sunbr" : {
 		"name" : "Gummy",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_196_sunbr","char_196_sunbr_summer",]
+		"skin" : ["char_196_sunbr","char_196_sunbr_summer"]
 	},
 	"yak" : {
 		"name" : "Matterhorn",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_199_yak","char_199_yak_summer",]
+		"skin" : ["char_199_yak","char_199_yak_summer"]
 	},
 	"greyy" : {
 		"name" : "Greyy",
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★",
-		"skin" : ["char_253_greyy",]
+		"skin" : ["char_253_greyy", "char_253_greyy_epoque"]
 	},
 	"susuro" : {
 		"name" : "Sussurro",
 		"type" : "Medic",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_298_susuro",]
+		"skin" : ["char_298_susuro", "char_298_susuro_summer"]
 	},
 	"myrtle" : {
 		"name" : "Myrtle",
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_151_myrtle",]
+		"skin" : ["char_151_myrtle", "char_151_myrtle_epoque"]
 	},
 	"durnar" : {
 		"name" : "Dur-nar",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_260_durnar",]
+		"skin" : ["char_260_durnar"]
 	},
 	"clour" : {
 		"name" : "Vermeil",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_190_clour",]
+		"skin" : ["char_190_clour"]
 	},
 	"ethan" : {
 		"name" : "Ethan",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_355_ethan",]
+		"skin" : ["char_355_ethan", "char_355_ethan_epoque"]
 	},
 	"mm" : {
 		"name" : "May",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_133_mm",]
+		"skin" : ["char_133_mm"]
 	},
 	"glaze" : {
 		"name" : "Ambriel",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_302_glaze",]
+		"skin" : ["char_302_glaze"]
 	},
 	"finlpp" : {
 		"name" : "Purestream",
 		"type" : "Medic",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★",
-		"skin" : ["char_385_finlpp",]
+		"skin" : ["char_385_finlpp"]
 	},
 	"utage" : {
 		"name" : "Utage",
 		"type" : "Guard",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★",
-		"skin" : ["char_337_utage",]
+		"skin" : ["char_337_utage", "char_337_utage_summer"]
 	},
 	"peacok" : {
 		"name" : "Conviction",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_159_peacok",]
+		"skin" : ["char_159_peacok"]
 	},
 	"cutter" : {
 		"name" : "Cutter",
 		"type" : "Guard",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★",
-		"skin" : ["char_301_cutter",]
+		"skin" : ["char_301_cutter"]
 	},
 	"podego" : {
 		"name" : "Podenco",
 		"type" : "Supporter",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_258_podego",]
+		"skin" : ["char_258_podego", "char_258_podego_epoque"]
 	},
 	"cammou" : {
 		"name" : "Click",
 		"type" : "Caster",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_328_cammou",]
+		"skin" : ["char_328_cammou", "char_328_cammou_witch"]
 	},
 	"strong" : {
 		"name" : "Jaye",
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_272_strong",]
+		"skin" : ["char_272_strong", "char_272_strong_summer"]
 	},
 	"acdrop" : {
 		"name" : "Aciddrop",
 		"type" : "Sniper",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_366_acdrop",]
+		"skin" : ["char_366_acdrop"]
 	},
 	"spikes" : {
 		"name" : "Arene",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_271_spikes",]
+		"skin" : ["char_271_spikes", "char_271_spikes_winter"]
 	},
 	"bubble" : {
 		"name" : "Bubble",
 		"type" : "Defender",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_381_bubble",]
+		"skin" : ["char_381_bubble"]
 	},
 	"jaksel" : {
 		"name" : "Jackie",
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_347_jaksel",]
+		"skin" : ["char_347_jaksel"]
+	},
+	"pinecn" : {
+		"name" : "Pinecone",
+		"type" : "Sniper",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_440_pinecn", "char_440_pinecn_shining"]
+	},
+
+	"bstalk" : {
+		"name" : "Beanstalk",
+		"type" : "Vanguard",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_452_bstalk"]
+	},
+	"indigo" : {
+		"name" : "Indigo",
+		"type" : "Caster",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_469_indigo"]
+	},
+	"robrta" : {
+		"name" : "Roberta",
+		"type" : "Supporter",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_484_robrta"]
+	},
+	"pudd" : {
+		"name" : "Pudding",
+		"type" : "Caster",
+		"group" : "",
+		"rarity" : "★★★★",
+		"skin" : ["char_4004_pudd"]
 	},
 	"fang" : {
 		"name" : "Fang",
