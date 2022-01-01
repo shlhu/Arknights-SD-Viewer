@@ -293,7 +293,7 @@ var charData = {
 		"type": "Caster",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_426_billro"]
+		"skin" : ["char_426_billro", "char_426_billro_snow"]
 	},
 	"pallas" : {
 		"name": "Pallas",
@@ -343,6 +343,13 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★★",
 		"skin" : ["char_420_flamtl"]
+	},
+	"gnosis" : {
+		"name": "Gnosis",
+		"type": "Supporter",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_206_gnosis"]
 	},
 	"savage" : {
 		"name" : "Savage",
@@ -728,7 +735,7 @@ var charData = {
 		"type" : "Caster",
 		"group" : "",
 		"rarity" : "★★★★★",
-		"skin" : ["char_373_lionhd", "char_373_lionhd_wild"]
+		"skin" : ["char_373_lionhd", "char_373_lionhd_wild", "char_373_lionhd_snow"]
 	},
 	"ayer" : {
 		"name" : "Ayerscarpe",
@@ -826,7 +833,7 @@ var charData = {
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★★",
-		"skin" : ["char_214_kafka"]
+		"skin" : ["char_214_kafka", "char_214_kafka_snow"]
 	},
 	"robin" : {
 		"name" : "Robin",
@@ -967,6 +974,20 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★",
 		"skin" : ["char_496_wildmn"]
+	},
+	"kjera" : {
+		"name" : "Kjera",
+		"type" : "Caster",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_4013_kjera"]
+	},
+	"aurora" : {
+		"name" : "Aurora",
+		"type" : "Defender",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_422_aurora"]
 	},
 	"blackd" : {
 		"name" : "Courier",
