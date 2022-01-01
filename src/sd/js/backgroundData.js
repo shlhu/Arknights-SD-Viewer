@@ -4,4 +4,5 @@ var backgroundData = [
 	"zred.png",
 	"zwhite.png",
 	"zblack.png",
+	"ztransparent.png"
 ];
