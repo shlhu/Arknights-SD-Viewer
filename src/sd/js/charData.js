@@ -861,7 +861,7 @@ var charData = {
 		"type" : "Caster",
 		"group" : "",
 		"rarity" : "★★★★★",
-		"skin" : ["char_1011_lava2"]
+		"skin" : ["char_1011_lava2", "char_1011_lava2_nian"]
 	},
 	"nothin" : {
 		"name" : "Mr. Nothing",
@@ -988,6 +988,13 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★",
 		"skin" : ["char_422_aurora"]
+	},
+	"aprot2" : {
+		"name" : "Shalem",
+		"type" : "Defender",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_4025_aprot2"]
 	},
 	"blackd" : {
 		"name" : "Courier",
@@ -1310,7 +1317,7 @@ var charData = {
 		"type" : "Vanguard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_452_bstalk"]
+		"skin" : ["char_452_bstalk", "char_452_bstalk_snow"]
 	},
 	"indigo" : {
 		"name" : "Indigo",
