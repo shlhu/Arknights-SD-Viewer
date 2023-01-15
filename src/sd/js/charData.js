@@ -138,7 +138,7 @@ var charData = {
 		"type" : "Caster",
 		"group" : "Rhodes Island",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_2013_cerber", "char_2013_cerber_summer"]
+		"skin" : ["char_2013_cerber", "char_2013_cerber_summer", "char_2013_cerber_whirlwind_1"]
 	},
 	"bpipe" : {
 		"name" : "Bagpipe",
@@ -243,7 +243,7 @@ var charData = {
 		"type": "Caster",
 		"group" : "",
 		"rarity" : "★★★★★★",
-		"skin" : ["char_2015_dusk"]
+		"skin" : ["char_2015_dusk", "char_2015_dusk_nian"]
 	},
 	"saga" : {
 		"name": "Saga",
@@ -351,6 +351,27 @@ var charData = {
 		"rarity" : "★★★★★★",
 		"skin" : ["char_206_gnosis"]
 	},
+	"ling" : {
+		"name": "Ling",
+		"type": "Supporter",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_2023_ling"]
+	},
+	"lmlee" : {
+		"name": "Lee",
+		"type": "Specialist",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_322_lmlee"]
+	},
+	"gdglow" : {
+		"name": "Goldenglow",
+		"type": "Caster",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["char_377_gdglow"]
+	},
 	"savage" : {
 		"name" : "Savage",
 		"type" : "Guard",
@@ -440,7 +461,7 @@ var charData = {
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★★",
-		"skin" : ["char_241_panda","char_241_panda_marthe"]
+		"skin" : ["char_241_panda","char_241_panda_marthe", "char_241_panda_nian"]
 	},
 	"prove" : {
 		"name" : "Provence",
@@ -623,7 +644,7 @@ var charData = {
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★★",
-		"skin" : ["char_243_waaifu"]
+		"skin" : ["char_243_waaifu" , "char_243_waaifu_whirlwind"]
 	},
 	"bison" : {
 		"name" : "Bison",
@@ -868,7 +889,7 @@ var charData = {
 		"type" : "Specialist",
 		"group" : "",
 		"rarity" : "★★★★★",
-		"skin" : ["char_455_nothin"]
+		"skin" : ["char_455_nothin", "char_455_nothin_nian"]
 	},
 	"frost" : {
 		"name" : "Frost",
@@ -995,6 +1016,34 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★",
 		"skin" : ["char_4025_aprot2"]
+	},
+	"ncdeer" : {
+		"name" : "Nine-Coloured Deer",
+		"type" : "Supporter",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_4019_ncdeer"]
+	},
+	"kroos2" : {
+		"name" : "Kroos the Keen Glint",
+		"type" : "Supporter",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_1021_kroos2"]
+	},
+	"blkngt" : {
+		"name" : "Blacknight",
+		"type" : "Vanguard",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_476_blkngt"]
+	},
+	"quercu" : {
+		"name" : "Quercus",
+		"type" : "Supporter",
+		"group" : "",
+		"rarity" : "★★★★★",
+		"skin" : ["char_492_quercu"]
 	},
 	"blackd" : {
 		"name" : "Courier",
@@ -1302,7 +1351,7 @@ var charData = {
 		"type" : "Guard",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_347_jaksel"]
+		"skin" : ["char_347_jaksel", "char_347_jaksel_whirlwind"]
 	},
 	"pinecn" : {
 		"name" : "Pinecone",
@@ -1324,7 +1373,7 @@ var charData = {
 		"type" : "Caster",
 		"group" : "",
 		"rarity" : "★★★★",
-		"skin" : ["char_469_indigo"]
+		"skin" : ["char_469_indigo", "char_469_indigo_nian"]
 	},
 	"robrta" : {
 		"name" : "Roberta",
@@ -1661,6 +1710,33 @@ var charData = {
 		"group" : "",
 		"rarity" : "★★★★★★",
 		"skin" : ["token_10015_dusk_drgn"],
+		"back" : false,
+		"dorm" : false,
+	},
+	"ling_soul1" : {
+		"name" : "Ling - Tranquility",
+		"type" : "Summon",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["token_10020_ling_soul1"],
+		"back" : false,
+		"dorm" : false,
+	},
+	"ling_soul2" : {
+		"name" : "Ling - Peripateticism",
+		"type" : "Summon",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["token_10020_ling_soul2"],
+		"back" : false,
+		"dorm" : false,
+	},
+	"ling_sou3" : {
+		"name" : "Ling - Thunderer",
+		"type" : "Summon",
+		"group" : "",
+		"rarity" : "★★★★★★",
+		"skin" : ["token_10020_ling_soul3"],
 		"back" : false,
 		"dorm" : false,
 	},
