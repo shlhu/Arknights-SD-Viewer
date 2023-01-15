@@ -1,3 +1,7 @@
+# IMPORTANT NOTE (JAN 15 2023)
+
+According to this issue here: https://github.com/Aceship/AN-EN-Tags/issues/147, at some point something may have changed with the chibis from the game files which causes the SD viewer to not work with them.  What's the change?  What's the problem?  I couldn't tell you.  This affects everything released after Goldenglow.  Since I don't know the issue I can't update this anymore until whatever that issue is is fixed.  Even then if the chibi viewer changes dramatically on Aceship then I may not be able to fix this on here either (I did not write this originally I just added missing chibis).
+
 # Arknights SD Viewer (Sparen Fork)
 
 This is SparenofIría's fork of the Arknights SD Viewer repo. The main purpose of this fork is to provide animations for projects such as ArknightsDNH. There is no expectation of parity with the original repository. Parity additions will remain on the main gh-pages branch while all other changes will go in the sparen-dev branch.
