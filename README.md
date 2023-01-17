@@ -1,3 +1,15 @@
+# Shlhu's First Note (JAN 15 2023)
+To enable testing the site locally, jekyll was site was setup. To keep the components a bit cleaner, I moved the site related code/assests to it's own directory and so it's kept separate from the scripts.
+
+To setup jekyll to start testing yourself:
+1. Setup ruby, bundle, and jekyll per instructions at the top here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site
+2. cd into site/
+3. run `bundle install`
+4. run `bundle add webrick`
+5. run `bundle exec jekyll serve`
+
+You should get a link locally that shows the site.
+
 # IMPORTANT NOTE (JAN 15 2023)
 
 According to this issue here: https://github.com/Aceship/AN-EN-Tags/issues/147, at some point something may have changed with the chibis from the game files which causes the SD viewer to not work with them.  What's the change?  What's the problem?  I couldn't tell you.  This affects everything released after Goldenglow.  Since I don't know the issue I can't update this anymore until whatever that issue is is fixed.  Even then if the chibi viewer changes dramatically on Aceship then I may not be able to fix this on here either (I did not write this originally I just added missing chibis).
