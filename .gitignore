@@ -9,3 +9,4 @@ sd.bat
 *.zip
 apk/
 new_data/
+docs/Gemfile.lock
